@@ -38,7 +38,7 @@ class QS
                 return right;
         }
     }
-    public static void Main(string[] args)
+    public static void MainQS(string[] args)
     {
         int[] arr = new int[] {45,87,30,20,97,6};
 
